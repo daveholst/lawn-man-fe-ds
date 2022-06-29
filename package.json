@@ -1,0 +1,19 @@
+{
+  "name": "@backlight-dev/lawn-man-ds.stitches-l4z20bn2",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 28yaYHKVJOOiMGIzZAC9 --open"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@stitches/react": "*",
+    "@mdx-js/react": "*",
+    "react": "^17",
+    "react-dom": "^17",
+    "@divriots/dockit-react": "*"
+  }
+}
